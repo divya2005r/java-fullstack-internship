@@ -17,41 +17,22 @@
 ### Outcome:
 Successfully set up development environment and executed first Java program.
 
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Day 2 Practice</title>
-</head>
-<body>
+---
 
-    <h1>Welcome to My Internship - Day 2</h1>
+## Day 2 - 03 Feb 2026
 
-    <h2>About Me</h2>
-    <p>Hello! I am learning Java Full Stack Development.</p>
+### Work Done:
+- Learned Java variables and data types
+- Practiced loops and basic programs
+- Created a simple HTML webpage
+- Learned SQL basics (CREATE, INSERT, SELECT)
+- Attended aptitude training session
 
-    <h3>Topics Learned Today</h3>
-    <ul>
-        <li>Java Basics (Variables, Loops)</li>
-        <li>HTML Structure and Tags</li>
-        <li>SQL Basics</li>
-        <li>Aptitude Training</li>
-    </ul>
+### Learning:
+- Understanding of control statements in Java
+- Basic HTML structure and tags
+- Introduction to database queries
+- Logical thinking and problem solving
 
-    <h3>Simple Table</h3>
-    <table border="1">
-        <tr>
-            <th>Subject</th>
-            <th>Status</th>
-        </tr>
-        <tr>
-            <td>Java</td>
-            <td>Completed Basics</td>
-        </tr>
-        <tr>
-            <td>HTML</td>
-            <td>Started</td>
-        </tr>
-    </table>
-
-</body>
-</html>
+### Outcome:
+Gained hands-on experience in basic Java programming and created a simple web page.
